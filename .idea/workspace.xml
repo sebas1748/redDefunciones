@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86cefe3e-20fe-42e7-ab0a-6ce41551ef86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Security/LoginFormAuthenticator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Security/LoginFormAuthenticator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registro/editarPassword.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registro/editarPassword.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registro/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registro/index.html.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +176,7 @@
       <workItem from="1593107819560" duration="3472000" />
       <workItem from="1593117988265" duration="10404000" />
       <workItem from="1593208648202" duration="5090000" />
-      <workItem from="1593265888718" duration="62000" />
+      <workItem from="1593265888718" duration="496000" />
     </task>
     <servers />
   </component>
