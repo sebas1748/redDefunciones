@@ -97,30 +97,6 @@ class LoginFormAuthenticator extends AbstractFormLoginAuthenticator implements P
         }
 
         return new RedirectResponse('pagprincipal');
-        //$userSession = $this->get('security.context')->getToken()->getUser();
-//obtenemos nuestro propio objeto
-        //$array[] = 'ROLE_NEW';
-        //$userSession->setRoles($array);
-        /*
-        $user =$this->get('app.user.username');
-
-        //$cantidad = $user->getCantlogin();
-
-        if($user == NULL){
-            return new RedirectResponse('pagprincipal');
-        }else{
-            return $this->redirectToRoute('editarPass', ['id'=> $user->getId()]);
-        }
-        */
-        //$user= $this->getUsuario();
-        /*$userCant= app.user.cantlogin;
-        if($userCant == 0){
-            return new RedirectResponse('pagprincipal');
-        }else{
-            return $this->redirectToRoute('editarPass', ['id'=> $user->getId()]);
-        }*/
-
-
 
         //throw new \Exception('TODO: provide a valid redirect inside '.__FILE__);
     }
